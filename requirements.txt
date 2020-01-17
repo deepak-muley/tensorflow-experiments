@@ -1,1 +1,10 @@
 tensorflow
+opencv-python
+#opencv-contrib-python
+Cython
+contextlib2
+pillow
+lxml
+jupyter
+matplotlib
+pycocotools
